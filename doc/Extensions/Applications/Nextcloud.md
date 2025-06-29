@@ -5,7 +5,7 @@
 === "Debian/Ubuntu"
 
     ```bash
-    apt-get install libjson-perl libfile-slurp-perl libmime-base64-perl cpanminus
+    apt-get install gcc libjson-perl libfile-slurp-perl libmime-base64-perl cpanminus
     cpanm Time::Piece
     ```
 
