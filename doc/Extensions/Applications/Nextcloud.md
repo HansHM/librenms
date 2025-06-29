@@ -54,7 +54,7 @@
    it to the Nextcloud install dir.
 
     ```
-    */5 * * * * /etc/snmpd/nextcloud -q -i $install_dir
+    */5 * * * * /etc/snmp/nextcloud -q -i $install_dir
     ```
 
 6. Add it to snmpd.conf
